@@ -36,7 +36,6 @@ GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
     f"gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
 )
-)
 
 def call_gemini(system_prompt: str, user_prompt: str) -> str:
     """Call Gemini API and return the raw text response."""
