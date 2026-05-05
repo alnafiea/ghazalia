@@ -33,8 +33,8 @@ DAILY_DIR.mkdir(parents=True, exist_ok=True)
 # Gemini client (no SDK needed - plain HTTPS)
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 GEMINI_URL = (
-    "https://generativelanguage.googleapis.com/v1beta/models/"
-    f"gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+    "https://generativelanguage.googleapis.com/v1/models/"
+    f"gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
 )
 
 def call_gemini(system_prompt: str, user_prompt: str) -> str:
