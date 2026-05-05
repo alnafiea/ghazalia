@@ -2,7 +2,6 @@ name: Daily Affirmation Generator
 
 on:
   schedule:
-    # Runs at 05:00 UTC every day (8am Riyadh time)
     - cron: '0 5 * * *'
   workflow_dispatch:
     inputs:
@@ -33,6 +32,17 @@ jobs:
 
       - name: Validate corpus integrity
         run: python scripts/validate.py
+
+      - name: Check API key
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "KEY IS MISSING"
+            exit 1
+          else
+            echo "KEY EXISTS"
+          fi
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate today's affirmation
         env:
