@@ -31,16 +31,6 @@ DAILY_DIR.mkdir(parents=True, exist_ok=True)
 
 
 # Gemini client (no SDK needed - plain HTTPS)
-- name: Check API key
-  run: |
-    if [ -z "$GEMINI_API_KEY" ]; then
-      echo "❌ KEY IS MISSING"
-      exit 1
-    else
-      echo "✅ KEY EXISTS"
-    fi
-  env:
-    GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
