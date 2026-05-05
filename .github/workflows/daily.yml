@@ -2,7 +2,6 @@ name: Daily Affirmation Generator
 
 on:
   schedule:
-    # Runs at 05:00 UTC every day (8am Riyadh time, Fajr + reflection window)
     - cron: '0 5 * * *'
   workflow_dispatch:
     inputs:
@@ -30,14 +29,13 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
 
-      - name: Install dependencies
-        run: pip install anthropic
+      - name: Validate corpus integrity
+        run: python scripts/validate.py
 
       - name: Generate today's affirmation
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           FLAGS=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
@@ -48,7 +46,7 @@ jobs:
       - name: Validate generated output
         run: python scripts/validate.py
 
-      - name: Update frontend data file
+      - name: Build frontend data
         run: python scripts/build_frontend_data.py
 
       - name: Commit and push
