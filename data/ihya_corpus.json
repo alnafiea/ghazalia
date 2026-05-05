@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ihya-1-1-001",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 1: On Knowledge",
+    "book_number": 1,
+    "chapter": "Chapter 1: Excellence of Knowledge",
+    "theme": "The primacy of sacred knowledge",
+    "category": "Intellect & Knowledge",
+    "arabic": "العلم يُحيي القلوب كما تُحيي الأمطار الأرض الميتة"
+  },
+  {
+    "id": "ihya-1-1-002",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 1: On Knowledge",
+    "book_number": 1,
+    "chapter": "Chapter 1: Excellence of Knowledge",
+    "theme": "Knowledge without action is a proof against its bearer",
+    "category": "Intellect & Knowledge",
+    "arabic": "العلم بلا عمل جنون والعمل بغير علم لا يكون"
+  },
+  {
+    "id": "ihya-1-1-003",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 1: On Knowledge",
+    "book_number": 1,
+    "chapter": "Chapter 3: On the Evils of Knowledge",
+    "theme": "The scholar who acts on worldly motives",
+    "category": "Sincerity (Ikhlas)",
+    "arabic": "من طلب العلم ليماري به السفهاء أو يباهي به العلماء أو يصرف به وجوه الناس إليه فليتبوأ مقعده من النار"
+  },
+  {
+    "id": "ihya-1-2-001",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 2: Foundations of Belief",
+    "book_number": 2,
+    "chapter": "Chapter 1: On the Creed",
+    "theme": "The heart's conviction as the seat of faith",
+    "category": "Faith (Iman)",
+    "arabic": "الإيمان تصديق بالقلب وإقرار باللسان وعمل بالأركان"
+  },
+  {
+    "id": "ihya-1-3-001",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 3: On the Secrets of Purity",
+    "book_number": 3,
+    "chapter": "Chapter 1: On the Inward Dimensions of Purification",
+    "theme": "Purity of body as a likeness for purity of heart",
+    "category": "Worship",
+    "arabic": "الطهارة نصف الإيمان والحمد لله تملأ الميزان"
+  },
+  {
+    "id": "ihya-1-4-001",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 4: On the Secrets of Prayer",
+    "book_number": 4,
+    "chapter": "Chapter 2: On Presence of Heart in Prayer",
+    "theme": "Prayer without presence of heart",
+    "category": "Worship",
+    "arabic": "الصلاة عماد الدين فمن أقامها فقد أقام الدين ومن هدمها فقد هدم الدين"
+  },
+  {
+    "id": "ihya-1-4-002",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 4: On the Secrets of Prayer",
+    "book_number": 4,
+    "chapter": "Chapter 3: On Humility and Presence",
+    "theme": "The condition of the heart during salah",
+    "category": "Worship",
+    "arabic": "ليس للعبد من صلاته إلا ما عقل منها"
+  },
+  {
+    "id": "ihya-1-7-001",
+    "quarter": "Quarter I — Acts of Worship",
+    "book": "Book 7: On the Secrets of Fasting",
+    "book_number": 7,
+    "chapter": "Chapter 1: The Three Degrees of Fasting",
+    "theme": "The fast of the elite: restraining all the limbs",
+    "category": "Worship",
+    "arabic": "صوم العوام كف البطن والفرج عن قضاء الشهوة وصوم الخواص كف السمع والبصر واللسان واليد والرجل وسائر الجوارح عن الآثام"
+  },
+  {
+    "id": "ihya-2-11-001",
+    "quarter": "Quarter II — Customs of Daily Life",
+    "book": "Book 11: On the Manners of Eating",
+    "book_number": 11,
+    "chapter": "Chapter 1: The Spiritual Dimensions of Eating",
+    "theme": "Eating as a means to worship, not an end",
+    "category": "Contentment (Qana'a)",
+    "arabic": "المعدة بيت الداء والحمية رأس الدواء وأعطِ كل جسد ما اعتاد"
+  },
+  {
+    "id": "ihya-2-14-001",
+    "quarter": "Quarter II — Customs of Daily Life",
+    "book": "Book 14: On Earning and Making a Living",
+    "book_number": 14,
+    "chapter": "Chapter 2: On Contentment and Its Virtues",
+    "theme": "Contentment as the true treasure",
+    "category": "Contentment (Qana'a)",
+    "arabic": "الغنى غنى النفس وليس غنى المال"
+  },
+  {
+    "id": "ihya-2-15-001",
+    "quarter": "Quarter II — Customs of Daily Life",
+    "book": "Book 15: On Friendship, Brotherhood and Companionship",
+    "book_number": 15,
+    "chapter": "Chapter 1: The Merits of Brotherhood",
+    "theme": "The spiritual necessity of righteous company",
+    "category": "Character",
+    "arabic": "المرء على دين خليله فلينظر أحدكم من يخالل"
+  },
+  {
+    "id": "ihya-2-15-002",
+    "quarter": "Quarter II — Customs of Daily Life",
+    "book": "Book 15: On Friendship, Brotherhood and Companionship",
+    "book_number": 15,
+    "chapter": "Chapter 3: Rights of Brotherhood",
+    "theme": "What the brother owes the brother",
+    "category": "Character",
+    "arabic": "أحب لأخيك ما تحب لنفسك تكن مؤمناً حقاً"
+  },
+  {
+    "id": "ihya-2-17-001",
+    "quarter": "Quarter II — Customs of Daily Life",
+    "book": "Book 17: On the Duties of Brotherhood",
+    "book_number": 17,
+    "chapter": "Chapter 2: On Commanding Good and Forbidding Evil",
+    "theme": "Silence in the face of wrong as complicity",
+    "category": "Character",
+    "arabic": "من رأى منكم منكراً فليغيره بيده فإن لم يستطع فبلسانه فإن لم يستطع فبقلبه وذلك أضعف الإيمان"
+  },
+  {
+    "id": "ihya-3-21-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 21: On the Wonders of the Heart",
+    "book_number": 21,
+    "chapter": "Chapter 1: On the Nature of the Heart",
+    "theme": "The heart as the seat of all human reality",
+    "category": "The Heart",
+    "arabic": "القلب هو الملك وسائر الأعضاء جنوده وخدمه تصرف بتصرفه وسكنت بسكونه"
+  },
+  {
+    "id": "ihya-3-21-002",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 21: On the Wonders of the Heart",
+    "book_number": 21,
+    "chapter": "Chapter 2: The Heart Between Two Fingers",
+    "theme": "The heart's susceptibility to turning",
+    "category": "The Heart",
+    "arabic": "القلوب بين أصبعين من أصابع الرحمن يقلبها كيف يشاء"
+  },
+  {
+    "id": "ihya-3-21-003",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 21: On the Wonders of the Heart",
+    "book_number": 21,
+    "chapter": "Chapter 4: The Armies of the Heart",
+    "theme": "The conflict between angelic and satanic forces in the chest",
+    "category": "The Heart",
+    "arabic": "في القلب لمتان لمة من الملك وإيعاد بالخير وتصديق بالحق ولمة من الشيطان وإيعاد بالشر وتكذيب بالحق"
+  },
+  {
+    "id": "ihya-3-22-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 22: On Disciplining the Soul",
+    "book_number": 22,
+    "chapter": "Chapter 1: On the Knowledge of the Soul",
+    "theme": "Self-knowledge as the gateway to knowledge of God",
+    "category": "Self-Knowledge",
+    "arabic": "من عرف نفسه فقد عرف ربه"
+  },
+  {
+    "id": "ihya-3-22-002",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 22: On Disciplining the Soul",
+    "book_number": 22,
+    "chapter": "Chapter 2: On Spiritual Training",
+    "theme": "The necessity of struggle in shaping character",
+    "category": "Self-Discipline",
+    "arabic": "إن الأخلاق تتغير بالرياضة والمجاهدة ولو لم يكن كذلك لبطلت الوصايا والمواعظ"
+  },
+  {
+    "id": "ihya-3-23-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 23: On the Harms of the Two Desires",
+    "book_number": 23,
+    "chapter": "Chapter 1: The Harm of the Stomach",
+    "theme": "The stomach as the root of most spiritual diseases",
+    "category": "Self-Discipline",
+    "arabic": "أصل كل داء البطنة وأصل كل دواء الحمية"
+  },
+  {
+    "id": "ihya-3-24-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 24: On the Harms of the Tongue",
+    "book_number": 24,
+    "chapter": "Chapter 1: On the Excellence of Silence",
+    "theme": "The tongue as the organ most dangerous to the soul",
+    "category": "Speech",
+    "arabic": "أكثر خطايا ابن آدم في لسانه"
+  },
+  {
+    "id": "ihya-3-24-002",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 24: On the Harms of the Tongue",
+    "book_number": 24,
+    "chapter": "Chapter 3: On Backbiting",
+    "theme": "Backbiting as consuming the flesh of one's dead brother",
+    "category": "Speech",
+    "arabic": "الغيبة ذكرك أخاك بما يكره"
+  },
+  {
+    "id": "ihya-3-25-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 25: On the Blameworthy Traits",
+    "book_number": 25,
+    "chapter": "Chapter 1: On Anger",
+    "theme": "The nature of anger and its cure",
+    "category": "Character",
+    "arabic": "ليس الشديد بالصُّرَعة إنما الشديد الذي يملك نفسه عند الغضب"
+  },
+  {
+    "id": "ihya-3-26-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 26: On Censure of the World",
+    "book_number": 26,
+    "chapter": "Chapter 1: On the Nature of the World",
+    "theme": "The world as a passage, not a destination",
+    "category": "Spiritual Vision",
+    "arabic": "الدنيا مزرعة الآخرة"
+  },
+  {
+    "id": "ihya-3-27-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 27: On the Censure of Miserliness",
+    "book_number": 27,
+    "chapter": "Chapter 2: On the Virtue of Generosity",
+    "theme": "True wealth is generosity of spirit",
+    "category": "Character",
+    "arabic": "السخاء شجرة في الجنة أغصانها في الدنيا فمن أخذ بغصن منها قاده إلى الجنة"
+  },
+  {
+    "id": "ihya-3-29-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 29: On the Censure of Pride and Conceit",
+    "book_number": 29,
+    "chapter": "Chapter 1: On the Definition of Pride",
+    "theme": "Pride as the root of ruin",
+    "category": "Humility",
+    "arabic": "لا يدخل الجنة من كان في قلبه مثقال ذرة من كبر"
+  },
+  {
+    "id": "ihya-3-29-002",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 29: On the Censure of Pride and Conceit",
+    "book_number": 29,
+    "chapter": "Chapter 3: On the Virtue of Humility",
+    "theme": "Humility as seeing grace as gift, not possession",
+    "category": "Humility",
+    "arabic": "التواضع أن تعلم أن شرفك من الله لا من نفسك"
+  },
+  {
+    "id": "ihya-3-30-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 30: On the Censure of Vanity and Ostentation",
+    "book_number": 30,
+    "chapter": "Chapter 2: On Sincerity",
+    "theme": "The destruction of good deeds by self-admiration",
+    "category": "Sincerity (Ikhlas)",
+    "arabic": "العجب يحبط العمل كما يحبط الملح الدقيق"
+  },
+  {
+    "id": "ihya-4-31-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 31: On Repentance",
+    "book_number": 31,
+    "chapter": "Chapter 1: On the Meaning of Repentance",
+    "theme": "Repentance as return — its structure and conditions",
+    "category": "Repentance",
+    "arabic": "التوبة هي الرجوع عن صفة مذمومة إلى صفة محمودة"
+  },
+  {
+    "id": "ihya-4-31-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 31: On Repentance",
+    "book_number": 31,
+    "chapter": "Chapter 2: On the Conditions of Repentance",
+    "theme": "The three pillars of valid repentance",
+    "category": "Repentance",
+    "arabic": "التوبة الصادقة تشتمل على ثلاثة أمور علم وحال وفعل"
+  },
+  {
+    "id": "ihya-4-32-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 32: On Patience and Gratitude",
+    "book_number": 32,
+    "chapter": "Chapter 1: On the Definition of Patience",
+    "theme": "Patience as the holding power of the heart against the pull of desire",
+    "category": "Patience",
+    "arabic": "الصبر حبس النفس عن الجزع وحبس اللسان عن الشكوى وحبس الجوارح عن لطم الخدود وشق الجيوب"
+  },
+  {
+    "id": "ihya-4-32-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 32: On Patience and Gratitude",
+    "book_number": 32,
+    "chapter": "Chapter 3: On the Three Degrees of Patience",
+    "theme": "The degrees of patience: enduring, fighting, transcending",
+    "category": "Patience",
+    "arabic": "الصبر ثلاث درجات صبر العوام وصبر الخواص وصبر خاص الخاص"
+  },
+  {
+    "id": "ihya-4-32-003",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 32: On Patience and Gratitude",
+    "book_number": 32,
+    "chapter": "Chapter 5: On Gratitude",
+    "theme": "Gratitude as recognition, not mere utterance",
+    "category": "Gratitude",
+    "arabic": "الشكر اعتراف بنعمة المنعم على وجه الخضوع"
+  },
+  {
+    "id": "ihya-4-33-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 33: On Fear and Hope",
+    "book_number": 33,
+    "chapter": "Chapter 1: On the Virtue of Fear",
+    "theme": "Fear that burns away the dross of the ego",
+    "category": "Fear & Hope",
+    "arabic": "الخوف سوط الله يسوق به عباده إلى مواظبة العلم والعمل"
+  },
+  {
+    "id": "ihya-4-33-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 33: On Fear and Hope",
+    "book_number": 33,
+    "chapter": "Chapter 2: On the Virtue of Hope",
+    "theme": "Hope as the engine of effort",
+    "category": "Fear & Hope",
+    "arabic": "الرجاء محركة القلب نحو الله والتشوق إليه والفرح بقربه"
+  },
+  {
+    "id": "ihya-4-34-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 34: On Poverty and Asceticism",
+    "book_number": 34,
+    "chapter": "Chapter 2: On the Degrees of Asceticism",
+    "theme": "Zuhd as the liberation of the heart, not the emptying of the hand",
+    "category": "Asceticism (Zuhd)",
+    "arabic": "الزهد في الدنيا ليس بتحريم الحلال ولا إضاعة المال ولكن أن تكون بما في يد الله أوثق منك بما في يدك"
+  },
+  {
+    "id": "ihya-4-35-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 35: On Sincerity and Truthfulness",
+    "book_number": 35,
+    "chapter": "Chapter 1: On the Meaning of Sincerity",
+    "theme": "Ikhlas as the purification of intention from all but God",
+    "category": "Sincerity (Ikhlas)",
+    "arabic": "الإخلاص تصفية العمل عن ملاحظة المخلوقين"
+  },
+  {
+    "id": "ihya-4-35-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 35: On Sincerity and Truthfulness",
+    "book_number": 35,
+    "chapter": "Chapter 3: On Truthfulness",
+    "theme": "Truthfulness as alignment of outward and inward",
+    "category": "Sincerity (Ikhlas)",
+    "arabic": "الصدق هو استواء السر والعلانية"
+  },
+  {
+    "id": "ihya-4-36-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 36: On Love, Longing, Intimacy and Contentment",
+    "book_number": 36,
+    "chapter": "Chapter 1: On the Reality of Love",
+    "theme": "Love of God as the summit of all spiritual stations",
+    "category": "Love of God",
+    "arabic": "المحبة هي الميل إلى ما يوافق ثم الاستئناس به والقلق عند فقده"
+  },
+  {
+    "id": "ihya-4-36-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 36: On Love, Longing, Intimacy and Contentment",
+    "book_number": 36,
+    "chapter": "Chapter 4: On Longing (Shawq)",
+    "theme": "Longing as the mark of love's intensity",
+    "category": "Love of God",
+    "arabic": "الشوق لقاء الله شعلة في القلب تحرق ما سوى المراد"
+  },
+  {
+    "id": "ihya-4-37-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 37: On Intention, Sincerity and Truth",
+    "book_number": 37,
+    "chapter": "Chapter 1: On Intention",
+    "theme": "Intention as the transformer of habits into worship",
+    "category": "Sincerity (Ikhlas)",
+    "arabic": "النية تحول العادة إلى عبادة والغفلة تحول العبادة إلى عادة"
+  },
+  {
+    "id": "ihya-4-38-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 38: On Vigilance and Self-Examination",
+    "book_number": 38,
+    "chapter": "Chapter 1: On Muraqaba",
+    "theme": "Vigilance as the constant awareness of God's sight",
+    "category": "Self-Knowledge",
+    "arabic": "المراقبة دوام علم العبد بنظر الله إليه في كل حال"
+  },
+  {
+    "id": "ihya-4-38-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 38: On Vigilance and Self-Examination",
+    "book_number": 38,
+    "chapter": "Chapter 2: On Muhasaba",
+    "theme": "Self-reckoning before the reckoning",
+    "category": "Self-Knowledge",
+    "arabic": "حاسبوا أنفسكم قبل أن تحاسبوا وزنوا أعمالكم قبل أن توزن عليكم"
+  },
+  {
+    "id": "ihya-4-39-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 39: On Meditation (Tafakkur)",
+    "book_number": 39,
+    "chapter": "Chapter 1: On the Virtue of Reflection",
+    "theme": "Contemplation as the heart of all worship",
+    "category": "Remembrance (Dhikr)",
+    "arabic": "تفكر ساعة خير من عبادة ستين سنة"
+  },
+  {
+    "id": "ihya-4-39-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 39: On Meditation (Tafakkur)",
+    "book_number": 39,
+    "chapter": "Chapter 2: Objects of Contemplation",
+    "theme": "Contemplating creation as a path to the Creator",
+    "category": "Remembrance (Dhikr)",
+    "arabic": "تفكروا في آلاء الله ولا تفكروا في ذات الله"
+  },
+  {
+    "id": "ihya-4-40-001",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 40: On the Remembrance of Death",
+    "book_number": 40,
+    "chapter": "Chapter 1: On Frequent Remembrance of Death",
+    "theme": "Death as the purifier of the love of the world",
+    "category": "Spiritual Vision",
+    "arabic": "أكثروا ذكر هادم اللذات يعني الموت"
+  },
+  {
+    "id": "ihya-4-40-002",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 40: On the Remembrance of Death",
+    "book_number": 40,
+    "chapter": "Chapter 2: On Living as a Stranger",
+    "theme": "The traveller's posture toward the world",
+    "category": "Spiritual Vision",
+    "arabic": "كن في الدنيا كأنك غريب أو عابر سبيل"
+  },
+  {
+    "id": "ihya-4-40-003",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 40: On the Remembrance of Death",
+    "book_number": 40,
+    "chapter": "Chapter 4: On the Vision of God",
+    "theme": "The beatific vision as the culmination of all longing",
+    "category": "Love of God",
+    "arabic": "نعيم الجنة كله بالنسبة إلى رؤية الله كالقطرة في بحر لا ساحل له"
+  },
+  {
+    "id": "ihya-3-28-001",
+    "quarter": "Quarter III — On the Destructive Vices",
+    "book": "Book 28: On the Censure of Status and Ostentation",
+    "book_number": 28,
+    "chapter": "Chapter 1: On the Love of Praise",
+    "theme": "Seeking status as a spiritual disease",
+    "category": "Sincerity (Ikhlas)",
+    "arabic": "حب الجاه والثناء من الآفات المهلكة التي تقطع الطريق إلى الله"
+  },
+  {
+    "id": "ihya-4-32-004",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 32: On Patience and Gratitude",
+    "book_number": 32,
+    "chapter": "Chapter 4: On the Blessings Embedded in Trials",
+    "theme": "The hidden mercy within affliction",
+    "category": "Patience",
+    "arabic": "عجباً لأمر المؤمن إن أمره كله خير إن أصابته سراء شكر فكان خيراً له وإن أصابته ضراء صبر فكان خيراً له"
+  },
+  {
+    "id": "ihya-4-35-003",
+    "quarter": "Quarter IV — On the Saving Virtues",
+    "book": "Book 35: On Trust in God (Tawakkul)",
+    "book_number": 35,
+    "chapter": "Chapter 1: On the Meaning of Tawakkul",
+    "theme": "Trust as heart-reliance, not abandonment of means",
+    "category": "Trust (Tawakkul)",
+    "arabic": "التوكل ثقة القلب بالله وحده لا إهمال الأسباب"
+  }
+]

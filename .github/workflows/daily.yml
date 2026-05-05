@@ -1,0 +1,60 @@
+name: Daily Affirmation Generator
+
+on:
+  schedule:
+    # Runs at 05:00 UTC every day (8am Riyadh time, Fajr + reflection window)
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force regeneration even if today exists'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Generate today's affirmation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          FLAGS=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            FLAGS="--force"
+          fi
+          python scripts/generate_affirmation.py $FLAGS
+
+      - name: Validate generated output
+        run: python scripts/validate.py
+
+      - name: Update frontend data file
+        run: python scripts/build_frontend_data.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "ghazalia-bot@users.noreply.github.com"
+          git config --local user.name  "Ghazalia Bot"
+          git add affirmations/ frontend/data/ data/corpus_hashes.json
+          git diff --staged --quiet || git commit -m "feat: daily affirmation $(date -u +%Y-%m-%d)"
+          git push
