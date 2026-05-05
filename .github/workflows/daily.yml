@@ -2,6 +2,7 @@ name: Daily Affirmation Generator
 
 on:
   schedule:
+    # Runs at 05:00 UTC every day (8am Riyadh time)
     - cron: '0 5 * * *'
   workflow_dispatch:
     inputs:
